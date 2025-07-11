@@ -7,8 +7,8 @@ tags:
   - logistic regression
   - education
 authors:
-  - name: Eduardo Leonardo
-    orcid: 0000-0000-0000-0000
+  - name: Eduardo Leonardo Rosa da Silva
+    orcid: 0009-0009-7417-0698
     affiliation: 1
     corresponding: true
 affiliations:
